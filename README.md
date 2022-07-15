@@ -24,7 +24,8 @@ if #available(iOS 15, *) { // check if the iOS version is >= 15 it'll use the ne
 }
 ```
 ```warning
-Note: this repository is not a real merchant EVC API. it's just a playground to test the API. if you want to test you must have the following things:
+Note: this repository is not a real merchant EVC API. it's just a playground to test the API. 
+if you want to test you must have the following things:
     • a valid `merchantUID`.
     • a valid merchant EVC `APIkey`.
     • a valid merchant API `Userid`.
