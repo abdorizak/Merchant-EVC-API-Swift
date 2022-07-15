@@ -2,13 +2,7 @@
 in this repository, I'll teach you how to send requests to the merchant EVC API. using the Swift language.
 Also i'll use `Async await` Swift to send requests and _ completion `@escaping` to receive the response and handle it.
 
-```Text
-Note: this repository is not a real merchant EVC API. it's just a playground to test the API. if you want to test you must have the following things:
-    • a valid `merchantUID`.
-    • a valid merchant EVC `APIkey`.
-    • a valid merchant API `Userid`.
-```
-
+here the code of example:
 ```swift
 if #available(iOS 15, *) { // check if the iOS version is >= 15 it'll use the new API to send requests to the merchant EVC API using Async Swift
         do {
@@ -28,6 +22,12 @@ if #available(iOS 15, *) { // check if the iOS version is >= 15 it'll use the ne
             }
         }
 }
+```
+```warning
+Note: this repository is not a real merchant EVC API. it's just a playground to test the API. if you want to test you must have the following things:
+    • a valid `merchantUID`.
+    • a valid merchant EVC `APIkey`.
+    • a valid merchant API `Userid`.
 ```
 
 ### **Credit**
