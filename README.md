@@ -32,4 +32,8 @@ if you want to test you must have the following things:
 ```
 
 ### **Credit**
-**_Abdorizak Abdalla_** [twitter](https://twitter.com/abdorizak3)
+**©** **Abdorizak Abdalla** **2022** 
+
+### **Reach Me**
+[twitter](https://twitter.com/abdorizak3)
+[LinkedIn](https://www.linkedin.com/in/abdorizak-abdalla-6a221910a/)
