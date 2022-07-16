@@ -35,5 +35,5 @@ if you want to test you must have the following things:
 **©** **Abdorizak Abdalla** **2022** 
 
 ### **Reach Me**
-[twitter](https://twitter.com/abdorizak3)
-[LinkedIn](https://www.linkedin.com/in/abdorizak-abdalla-6a221910a/)
+- [twitter](https://twitter.com/abdorizak3)
+- [LinkedIn](https://www.linkedin.com/in/abdorizak-abdalla-6a221910a/)
